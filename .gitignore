@@ -2,6 +2,15 @@
 .gradle/
 build/
 
+
+android/
+app/
+gemini.md
+out/
+build/
+node_modules/
+.next/
+.env*.local
 # Local configuration file (sdk path, etc)
 local.properties
 

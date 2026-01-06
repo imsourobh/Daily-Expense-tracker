@@ -1,0 +1,10 @@
+{
+  "appId": "com.imsourobh.expense",
+  "appName": "An Expense Tracker",
+  "webDir": "out",
+  "plugins": {
+    "Preferences": {
+      "scope": "public"
+    }
+  }
+}
