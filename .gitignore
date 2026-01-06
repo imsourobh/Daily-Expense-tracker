@@ -2,10 +2,18 @@
 .gradle/
 build/
 
+ANDROID_CONVERSION_GUIDE.md
+COMPLETION_SUMMARY.md
+ENHANCEMENTS.md
+FIREBASE_REMOVED.txt
+logo.png
+MODIFICATIONS_SUMMARY.md
+QUICK_START.md
+SETUP.md
 
 android/
 app/
-gemini.md
+GEMINI.md
 out/
 build/
 node_modules/
