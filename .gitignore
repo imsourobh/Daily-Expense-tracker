@@ -1,50 +1,36 @@
-# Gradle files
-.gradle/
-build/
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
 
-ANDROID_CONVERSION_GUIDE.md
-COMPLETION_SUMMARY.md
-ENHANCEMENTS.md
-FIREBASE_REMOVED.txt
-logo.png
-MODIFICATIONS_SUMMARY.md
-QUICK_START.md
-SETUP.md
+# Next.js Build Output
+/.next/
+/out/
+/build
 
-android/
-app/
-GEMINI.md
-out/
-build/
-node_modules/
-.next/
+# Production Build
+/dist
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment Variables
 .env*.local
-# Local configuration file (sdk path, etc)
-local.properties
+.env
 
-# Log/OS Files
-*.log
+# OS Metadata
+.DS_Store
+Thumbs.db
 
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
+# Capacitor / Mobile Artifacts
+/android
+/ios
 *.apk
-output.json
+*.ipa
 
-# IntelliJ
-*.iml
+# IDE Settings
+.vscode/
 .idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
-
-# Keystore files
-*.jks
-*.keystore
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
