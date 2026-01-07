@@ -1,4 +1,5 @@
-Personal Expense Tracker (Privacy-First)
+<b>Personal Expense Tracker (Privacy-First)</b>
+
 I built a Cyberpunk-themed expense tracker to manage daily finances without the cloud.
 
 Key Features:
